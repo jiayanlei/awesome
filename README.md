@@ -67,8 +67,9 @@
 
 ## 包管理
 
-* [**npm**](https://github.com/npm/cli)
-* [**yarn**](https://github.com/yarnpkg/yarn) - 我用这个。
+* [**npm**](https://github.com/npm/cli) - 我用这个。
+* [**yarn**](https://github.com/yarnpkg/yarn) 
+* [**pnpm**](https://github.com/pnpm/pnpm) 
 
 ## babel
 
